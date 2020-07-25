@@ -3,7 +3,7 @@
     "publisher": "alirezanet",
     "displayName": "Soothing Theme",
     "description": "a best combination of a few popular vscode themes with Soothing modifications",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.47.0"
