@@ -1,14 +1,23 @@
 {
-    "name": "soothing-theme",
+    "name": "oothing-theme",
+    "publisher": "alirezanet",
     "displayName": "Soothing Theme",
     "description": "a best combination of a few popular vscode themes with Soothing modifications",
     "version": "0.0.1",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.47.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Alirezanet/Soothing-Theme"
+    },
+    "bugs": {
+		"url": "https://github.com/Alirezanet/Soothing-Theme/issues"
+	},
     "contributes": {
         "themes": [
             {
