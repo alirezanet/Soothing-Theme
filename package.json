@@ -1,0 +1,21 @@
+{
+    "name": "soothing-theme",
+    "displayName": "Soothing Theme",
+    "description": "a best combination of a few popular vscode themes with Soothing modifications",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soothing",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Soothing-color-theme.json"
+            }
+        ]
+    }
+}
